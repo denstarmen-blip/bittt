@@ -1,0 +1,20 @@
+{
+  "textures": {
+    "all": "minecraft:block/mud",
+    "particle": "minecraft:block/mud"
+  },
+  "elements": [
+    {
+      "from": [1, 0, 1],
+      "to": [15, 6, 15],
+      "faces": {
+        "down":  { "texture": "#all" },
+        "up":    { "texture": "#all" },
+        "north": { "texture": "#all" },
+        "south": { "texture": "#all" },
+        "west":  { "texture": "#all" },
+        "east":  { "texture": "#all" }
+      }
+    }
+  ]
+}
